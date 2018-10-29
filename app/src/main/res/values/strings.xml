@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExplicitIntent</string>
+    <string name="textViewIntent">Intent</string>
+    <string name="buttonSimple">EXPLICIT INTENT(SIMPLE)</string>
+    <string name="buttonResult">EXPLICIT INTENT(RESULT)</string>
+    <string name="buttonListview">EXPLICIT INTENT(LISTVIEW)</string>
+    <string name="buttonSimpleToResult">EXPLICIT INTENT(RESULT)</string>
+    <string name="buttonResultToListview">EXPLICIT INTENT(LISTVIEW)</string>
+    <string name="buttonListviewToMain">MAIN</string>
+</resources>
